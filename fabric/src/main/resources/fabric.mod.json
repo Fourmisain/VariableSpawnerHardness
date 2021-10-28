@@ -15,6 +15,7 @@
   },
 
   "license": "MIT",
+  "icon": "assets/variablespawnerhardness/icon.png",
 
   "environment": "*",
   "entrypoints": {
